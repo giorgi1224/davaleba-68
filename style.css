@@ -1,0 +1,45 @@
+th,
+td {
+    padding: 15px;
+}
+
+.th1 {
+    background-color: #F9F9F9;
+    width: 72px;
+    height: 57px;
+}
+
+.th2 {
+    width: 276px;
+    height: 57px;
+    background-color: #F9F9F9;
+}
+
+.th3 {
+    background-color: #F9F9F9;
+    width: 251px;
+    height: 57px;
+}
+
+.th4 {
+    background-color: #F9F9F9;
+    width: 444px;
+    height: 57px;
+}
+
+.th5 {
+    color: red;
+}
+
+.th6 {
+    background-color: #FFD43A;
+    width:
+        115px;
+    height:
+        36px;
+    border: none;
+}
+
+.table1 {
+    margin: auto
+}
