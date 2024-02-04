@@ -41,5 +41,9 @@ td {
 }
 
 .table1 {
-    margin: auto
+    margin: auto;
+}
+
+.heading1 {
+    margin-left: 170px;
 }
