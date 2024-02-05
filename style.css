@@ -1,4 +1,7 @@
-th,
+th {
+    border: 1px solid #DADADA;
+}
+
 td {
     padding: 15px;
 }
@@ -46,4 +49,8 @@ td {
 
 .heading1 {
     margin-left: 170px;
+}
+
+.paragraph1 {
+    text-align: start;
 }
